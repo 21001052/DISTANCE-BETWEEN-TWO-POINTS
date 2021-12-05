@@ -24,7 +24,9 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![output]()
+![output](https://github.com/21001052/DISTANCE-BETWEEN-TWO-POINTS/blob/main/Screenshot%20(15).png?raw=true)
 
 
 ### RESULT:
+Thus a python program to find the distance two 2 points is sucessfully executed
+
